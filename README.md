@@ -127,7 +127,3 @@ Acesse a documentação da API gerada pelo Swagger em http://localhost:8080/swag
   <br>
   <img alt="Exemplo de Correntistas" src="https://github.com/IG41/bankline-api/assets/86057048/5da11581-0133-4d26-a086-46b91565110d" width="1365px" height="670px"/>
 </div>
-
-<H2>Publicação no Heroku ☁️</H2>
-
-Para publicar a aplicação no Heroku, siga os passos descritos na documentação oficial do Heroku.
